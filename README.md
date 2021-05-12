@@ -1,1 +1,1 @@
-# Cricket-Highlight-Generation-Using--omputer-ision
+# This Project is about generating highlights of cricket.
