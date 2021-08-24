@@ -1,6 +1,6 @@
 # In this paper, we propose an algorithm to generate cricket highlights using the computer vision techniques. 
 
-Contributor:
+Contributors:
 1. Aakash Aggarwal
 2. Hrushikesh Shelar
 3. Dr. Ashish Sahani
