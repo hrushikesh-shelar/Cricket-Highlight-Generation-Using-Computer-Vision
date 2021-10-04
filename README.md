@@ -6,9 +6,8 @@
 3. Dr. Ashish Sahani
 
 ### Keywords:
-[Computer Vision], [Deep Learning], [Optical Character Recognition(OCR)]
+Computer Vision, Deep Learning, Optical Character Recognition(OCR).
 
-[Dataset Link](https://www.kaggle.com/)
 
 ### Method:
 
