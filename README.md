@@ -1,3 +1,5 @@
+# Cricket Highlight Generation Using Computer Vision
+
 ### Objective:
 In this project, we propose an algorithm to generate cricket highlights using the computer vision techniques. 
 
