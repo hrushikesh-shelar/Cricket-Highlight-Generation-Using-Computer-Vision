@@ -6,11 +6,11 @@
 3. Dr. Ashish Sahani
 
 ### Keywords:
-Computer Vision, Deep Learning, Optical Character Recognition(OCR).
+Computer Vision, Deep Learning, Optical Character Recognition(OCR)
 
 
 ### Method:
 
 Major Parts:
 1. Convolutional Neural Networks (CNN) for Classification: Classifying the start-of ball frame for video segmentation into short clips.
-2. OCR for r
+2. OCR for reading score
