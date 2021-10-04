@@ -13,4 +13,8 @@ Computer Vision, Deep Learning, Optical Character Recognition(OCR)
 
 Major Parts:
 1. Convolutional Neural Networks (CNN) for Classification: Classifying the start-of ball frame for video segmentation into short clips.
-2. OCR for reading score
+2. OCR for reading scoreboard: Used OCR for reading scoreboard to determine occurence of the event. This will help us chose the events for highlights.
+
+### Recent Update:
+
+Research paper has been submitted in 6th CVIP conference
