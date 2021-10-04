@@ -1,4 +1,5 @@
-# In this paper, we propose an algorithm to generate cricket highlights using the computer vision techniques. 
+### Objective:
+In this project, we propose an algorithm to generate cricket highlights using the computer vision techniques. 
 
 ### Contributors:
 1. Aakash Agarwal
@@ -18,4 +19,4 @@ Computer Vision, Deep Learning, Optical Character Recognition(OCR)
 
 ### Recent Update:
 
-Research paper has been submitted in 6th CVIP conference
+Research paper has been submitted in 6th CVIP conference. Awaiting acceptance.
